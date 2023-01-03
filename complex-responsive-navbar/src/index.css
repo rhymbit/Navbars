@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-test {
+  @apply border-2 border-teal-400;
+}
